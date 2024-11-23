@@ -1,0 +1,18 @@
+id,Name,Gender,Age,City,Working Professional or Student,Academic Pressure,Study Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+142684,Mahika,Female,26.0,Patna,Student,4.0,2.0,Less than 5 hours,Moderate,Class 12,Yes,9.0,4.0,No,
+157209,Harsha,Male,37.0,Jaipur,Student,1.0,4.0,7-8 hours,Unhealthy,Class 12,No,8.0,2.0,No,
+172498,Janvi,Female,28.0,Mumbai,Working Professional,,,5-6 hours,Unhealthy,BCA,Yes,8.0,4.0,No,
+174747,Saanvi,Female,50.0,Thane,Working Professional,,,Less than 5 hours,Unhealthy,Class 12,Yes,2.0,5.0,No,
+189676,Tanisha,Female,37.0,Thane,Working Professional,,,Less than 5 hours,Moderate,LLB,Yes,0.0,2.0,Yes,
+189690,Tara,Female,31.0,Chennai,Student,3.0,1.0,More than 8 hours,Healthy,B.Arch,No,3.0,2.0,No,
+190034,Vani,Female,19.0,Pune,Working Professional,2.0,4.0,Less than 5 hours,Moderate,Class 12,Yes,2.0,2.0,No,
+221725,Rishi,Male,28.0,Hyderabad,Student,3.0,5.0,Less than 5 hours,Unhealthy,PhD,No,0.0,2.0,No,
+34694,Kriti,Female,46.0,Meerut,Working Professional,,,5-6 hours,Moderate,Class 12,Yes,12.0,3.0,No,0.0
+35612,Siddhesh,Male,27.0,Vadodara,Working Professional,,,Less than 5 hours,Unhealthy,B.Pharm,No,11.0,3.0,No,1.0
+52737,Aarav,Male,28.0,Vadodara,Student,3.0,4.0,Less than 5 hours,Healthy,BBA,No,12.0,2.0,No,0.0
+57196,Manvi,Female,20.0,Visakhapatnam,Working Professional,,,Less than 5 hours,Moderate,Class 12,No,0.0,4.0,Yes,1.0
+58062,Ishita,Female,32.0,Vadodara,Student,5.0,,Less than 5 hours,Unhealthy,Class 12,Yes,11.0,5.0,No,1.0
+98446,Ritika,Female,54.0,Surat,Working Professional,,,More than 8 hours,Moderate,Class 12,Yes,0.0,4.0,No,0.0
+100868,Harsha,Male,29.0,Nashik,Working Professional,,,More than 8 hours,Healthy,BHM,Yes,10.0,3.0,No,0.0
+110097,Abhinav,Male,34.0,Pune,Student,1.0,5.0,Less than 5 hours,Unhealthy,M.Ed,Yes,10.0,3.0,Yes,0.0
+122793,Amit,Male,20.0,Pune,Working Professional,,,5-6 hours,Healthy,Class 12,No,0.0,5.0,No,0.0
